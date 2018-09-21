@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1537550584 source:c:\users\lauro manuel garcia\desktop\ejer.3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<fstream>
+	"numeros.h"
+	<stdlib.h>
+
+1537550427 c:\users\lauro manuel garcia\desktop\ejer.3\numeros.h
+
+1537550341 source:c:\users\lauro manuel garcia\desktop\ejer.3\numeros.cpp
+	"numeros.h"
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<fstream>
+

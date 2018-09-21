@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1537547974 source:c:\users\lauro manuel garcia\desktop\act.2\ahorcado.cpp
+	"ahorcado.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537547974 c:\users\lauro manuel garcia\desktop\act.2\ahorcado.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537548112 source:c:\users\lauro manuel garcia\desktop\act.2\main.cpp
+	<iostream>
+	"ahorcado.h"
+
